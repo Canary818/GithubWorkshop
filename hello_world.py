@@ -9,7 +9,6 @@ def HelloWorld(printString):
 def Addition():
     return 1 + 2
 
-def Subtraction():
-    return 3 - 5
+
 
 main()
